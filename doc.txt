@@ -1,0 +1,8 @@
+1. Tener abierto mongo compass y este archivo 'C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe'
+2. Abrir dos consolas, una para el server (node.js/express.js/MongoDB) y otra para el cliente (react.js)
+3. En cada consola ejecutar npm start
+4. Se abrirá la app en http://localhost:3000
+5. Inicias sesión con: 
+email: joaquin@gmail.com
+contraseña: 123
+6. Interactúas con la página, recordar que también está para registrarse
